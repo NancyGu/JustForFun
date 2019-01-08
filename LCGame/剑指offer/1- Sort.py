@@ -25,9 +25,10 @@ def QuickSort(arr,begin,end):
         QuickSort(arr,i+1,end)
 # 2- 堆排-------------------------------------------------
 def heapSort(arr):
-    
+    pass
 
-arr = [6,4,2,3,10];
+
+arr = [6,4,2,3,10]
 #QuickSorted(arr)
 
 print(arr)
